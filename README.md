@@ -29,7 +29,7 @@ Webiste ini dibangun dengan menggunakan :
 - [Laravel](https://laravel.com/docs/11.x/installation) - Laravel adalah sebuah framework PHP yang dirilis di bawah lisensi MIT. Framework ini dibangun dengan konsep Model-View-Controller (MVC) dan dirancang untuk meningkatkan kualitas perangkat lunak dengan mengurangi biaya pengembangan awal dan biaya pemeliharaan.
 - [XAMPP](https://www.apachefriends.org/download.html) - XAMPP adalah lingkungan pengembangan lokal yang mudah dan cepat, yang memungkinkan para pengembang untuk mengelola berbagai versi PHP, Apache, MySQL, dan perangkat lunak lainnya. 
 - [MySQL](https://www.mysql.com/) - MySQL adalah sistem manajemen database yang bersifat open-source yang menggunakan perintah dasar atau bahasa pemrograman yang berupa structured query language (SQL).
-- [Bootsrap](https://getbootstrap.com/) - Bootstrap adalah sebuah framework CSS, HTML, dan JavaScript yang digunakan untuk mempermudah pembuatan website responsif dan mobile-friendly. Framework ini berfokus pada pengembangan front-end website dengan menyediakan komponen-komponen yang siap digunakan, seperti tombol, formulir, navigasi, dan lainnya.
+- [Laragon](https://laragon.org/download/index.html)) - Laragon adalah lingkungan pengembangan web lokal yang menyediakan server web, database, dan alat-alat lain yang dibutuhkan untuk pengembangan aplikasi web berbasis PHP.
 - [Chrome](https://www.google.com/intl/id/chrome/) - Chrome adalah peramban web (web browser) yang dikembangkan oleh perusahaan teknologi terkemuka, yaitu Google.
 
 ## Requirements
@@ -37,4 +37,4 @@ Webiste ini dibangun dengan menggunakan :
 - [Laravel 11](https://laravel.com/docs/11.x/installatio)
 - [XAMPP 8.0.30 or leter](https://www.apachefriends.org/download.html)
 - [MySQL 8.0.35 or leter](https://dev.mysql.com/downloads/installer/) 
-- [Bootsrap 5 or leter](https://getbootstrap.com/)
+- [Laragon 5.0 or leter](https://laragon.org/download/index.html)

@@ -1,66 +1,45 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# NatShoes | Website Produksi Sepatu
 
-## About Laravel
+ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+ 
+![Maintainer](https://img.shields.io/badge/maintainer-MohammadJoenathan|2218060-blue)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+> NatShoes adalah sebuah website yang dikembangkan untuk mempermudah pengelolaan produksi sepatu. Dibuat menggunakan framework Laravel, NatShoes menyediakan fitur lengkap untuk mengelola data bahan baku, produksi dan pengiriman agar dapat mengatur dan mengakses informasi produksi secara efisien dan efektif.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Note
+- tiket_pertandingan.sql : Database untuk Project Laravel
+- tiket_pertandingan_tugas_database.sql : Database yang dibuat pada tugas Database Project SI
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Cara Menjalankan Webiste
++ Buka halaman register
++ Buat akun Admin
++ Login dengan akun Admin yang sudah di buat
++ Maka akan masuk Dashboard Admin
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Fitur Pada Website
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- Cread, Read, Update dan Delete Data pada semua tabel
+- Export PDF untuk semua data yang ada pada Tabel
+- Integrasi dengan database MySQL untuk penyimpanan dan pengambilan data
+- Login Administrator
+- Tampilan Dashboard Admin yang menarik
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Website
 
-## Laravel Sponsors
+Webiste ini dibangun dengan menggunakan :
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- [Laravel](https://laravel.com/docs/11.x/installation) - Laravel adalah sebuah framework PHP yang dirilis di bawah lisensi MIT. Framework ini dibangun dengan konsep Model-View-Controller (MVC) dan dirancang untuk meningkatkan kualitas perangkat lunak dengan mengurangi biaya pengembangan awal dan biaya pemeliharaan.
+- [XAMPP](https://www.apachefriends.org/download.html) - XAMPP adalah lingkungan pengembangan lokal yang mudah dan cepat, yang memungkinkan para pengembang untuk mengelola berbagai versi PHP, Apache, MySQL, dan perangkat lunak lainnya. 
+- [MySQL](https://www.mysql.com/) - MySQL adalah sistem manajemen database yang bersifat open-source yang menggunakan perintah dasar atau bahasa pemrograman yang berupa structured query language (SQL).
+- [Bootsrap](https://getbootstrap.com/) - Bootstrap adalah sebuah framework CSS, HTML, dan JavaScript yang digunakan untuk mempermudah pembuatan website responsif dan mobile-friendly. Framework ini berfokus pada pengembangan front-end website dengan menyediakan komponen-komponen yang siap digunakan, seperti tombol, formulir, navigasi, dan lainnya.
+- [Chrome](https://www.google.com/intl/id/chrome/) - Chrome adalah peramban web (web browser) yang dikembangkan oleh perusahaan teknologi terkemuka, yaitu Google.
 
-### Premium Partners
+## Requirements
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- [Laravel 11](https://laravel.com/docs/11.x/installatio)
+- [XAMPP 8.0.30 or leter](https://www.apachefriends.org/download.html)
+- [MySQL 8.0.35 or leter](https://dev.mysql.com/downloads/installer/) 
+- [Bootsrap 5 or leter](https://getbootstrap.com/)

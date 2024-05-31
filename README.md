@@ -2,16 +2,11 @@
 
 # NatShoes | Website Produksi Sepatu
 
- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
  
 ![Maintainer](https://img.shields.io/badge/maintainer-MohammadJoenathan|2218060-blue)
 
 > NatShoes adalah sebuah website yang dikembangkan untuk mempermudah pengelolaan produksi sepatu. Dibuat menggunakan framework Laravel, NatShoes menyediakan fitur lengkap untuk mengelola data bahan baku, produksi dan pengiriman agar dapat mengatur dan mengakses informasi produksi secara efisien dan efektif.
-
-## Note
-- tiket_pertandingan.sql : Database untuk Project Laravel
-- tiket_pertandingan_tugas_database.sql : Database yang dibuat pada tugas Database Project SI
-
 
 ## Cara Menjalankan Webiste
 + Buka halaman register

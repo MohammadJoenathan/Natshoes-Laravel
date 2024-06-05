@@ -16,7 +16,7 @@ return new class extends Migration
             $table->unsignedBigInteger('id_bahan_baku');
             $table->string('nama_sepatu', 30);
             $table->integer('jumlah_produksi');
-            $table->date('tanggal_pesan');
+            $table->date('tanggal_produksi');
             $table->string('durasi_produksi', 20);
             $table->integer('pembuatan_ke');
             $table->timestamps();

@@ -82,14 +82,14 @@
       </li><!-- End Bahan Baku Page Nav -->
       
       <li class="nav-item">
-        <a class="nav-link collapsed" href="">
+        <a class="nav-link collapsed" href="{{ route('Produksi') }}">
           <i class="fa-solid fa-cube"></i>
           <span>Produksi</span>
         </a>
       </li><!-- End Produksi Page Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="">
+        <a class="nav-link collapsed" href="{{ route('Pengiriman') }}">
           <i class="fa-solid fa-truck"></i>
           <span>Pengiriman</span>
         </a>

@@ -15,7 +15,7 @@ class Produksi extends Model
         'id_bahan_baku',
         'nama_sepatu',
         'jumlah_produksi',
-        'tanggal_pesan',
+        'tanggal_produksi',
         'durasi_produksi',
         'pembuatan_ke',
     ];
